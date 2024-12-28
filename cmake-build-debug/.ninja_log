@@ -1,0 +1,14 @@
+# ninja log v6
+2	92	7571256983253900	CMakeFiles/ContactManager.dir/main.c.obj	4b57f444012c594d
+93	207	7571256984154859	ContactManager.exe	45ca6bdc4ef5845c
+2	245	7571261926087085	build.ninja	50803ae34652271c
+4	97	7571260190288117	CMakeFiles/ContactManager.dir/src/main.c.obj	89f8079a565191ff
+1	244	7571261926087085	build.ninja	50803ae34652271c
+3	120	7571261926447022	CMakeFiles/ContactManager.dir/src/contacts.c.obj	9a01529dbf93e723
+120	223	7571261927620755	ContactManager.exe	8d93aa0da2106234
+3	93	7571263981511275	CMakeFiles/ContactManager.dir/src/main.c.obj	89f8079a565191ff
+9	108	7571263981561317	CMakeFiles/ContactManager.dir/src/contacts.c.obj	9a01529dbf93e723
+108	211	7571263982561276	ContactManager.exe	8d93aa0da2106234
+3	103	7571285162613944	CMakeFiles/ContactManager.dir/src/main.c.obj	89f8079a565191ff
+8	116	7571285162653876	CMakeFiles/ContactManager.dir/src/contacts.c.obj	9a01529dbf93e723
+116	220	7571285163733981	ContactManager.exe	8d93aa0da2106234
