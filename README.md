@@ -59,4 +59,4 @@ com registro, listagem, pesquisa, edição, remoção e ordenação.
 
 ## Licença
 
-CContacts © 2024 por Jorge Hermes está licenciado sob a licença [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+CContacts © 2025 por Jorge Hermes está licenciado sob a licença [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
